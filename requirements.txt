@@ -1,0 +1,7 @@
+pypdf
+langchain
+torch
+accelerate
+sentence_transformers
+faiss_cpu
+ctransformers
