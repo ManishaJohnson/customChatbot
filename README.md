@@ -30,4 +30,17 @@ Once you have the project set up, follow these steps:
     chainlit run model.py -w
     ```
 
+Before running the model, download the LLM (Llama Language Model) from the following link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
 
+Download the following version: llama-2-7b-chat.Q8_0.gguf
+
+If you pick any other model, ensure to replace the model name in the code inside model.py.
+
+Contributing
+References:
+Credits and huge thanks
+
+1 https://www.youtube.com/watch?v=kXuHxI5ZcG0&t=379s
+
+2 https://huggingface.co/TheBloke?search_models=llama-2-7B-
